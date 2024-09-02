@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I'm Maksymilian Leszczyński
+
+- 🔭 I’m currently working on ... wesbite apps
+- 🌱 I’m currently learning ... Java and Spring Boot
 
 <!--
 **Maksssl2020/Maksssl2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
