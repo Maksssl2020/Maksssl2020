@@ -2,7 +2,7 @@
 
 ## About me
 - 🧑‍🎓 I'm an IT Student 
-- ❤️ I love writing Java code and build web apps
+- ❤️ I love writing Java code and building web apps
 - 🏆 I'm striving to increase my developer skills
 - ⚡ Fun fact: I read books, watch series and movies, listen to music and podcasts, play computer games, and talk to my parrot!
 
