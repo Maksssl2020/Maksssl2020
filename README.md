@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I read books, watch series and movies, listen to music and podcasts, play computer games, and talk to my parrot!
 
 ## My tech stack
-![My Skills](https://skillicons.dev/icons?i=java,spring,cs,postgres,js,html,css,tailwind,react)
+![My Skills](https://skillicons.dev/icons?i=java,spring,cs,postgres,js,html,css,tailwind,react,dotnet,sass,angular,ts)
 
 ## My stats
 <div align=center>
