@@ -6,16 +6,16 @@ I work across the stack, from integrating devices and decoding readings to build
 
 ## What I'm working on
 
-- **pomiary.io** — A web platform for collecting and viewing meter and sensor readings.
-- **Android app for field meter readings** — An app that helps field teams check which meters have been read and which readings are still missing.
-- **IoT integrations** — Processing LoRaWAN and Wireless M-Bus data, and piloting remote gas meter readings over NB-IoT using DLMS.
+- **pomiary.io** - A web platform for collecting and viewing meter and sensor readings.
+- **Android app for field meter readings** - An app that helps field teams check which meters have been read and which readings are still missing.
+- **IoT integrations** - Processing LoRaWAN and Wireless M-Bus data, and piloting remote gas meter readings over NB-IoT using DLMS.
 
 ## Technologies I work with
 
-- **Backend** — Java, Spring Boot, PostgreSQL
-- **Web** — TypeScript, React, Next.js, Tailwind CSS
-- **Mobile** — Kotlin, Jetpack Compose
-- **IoT and infrastructure** — LoRaWAN, Wireless M-Bus, ChirpStack, Docker
+- **Backend** - Java, Spring Boot, PostgreSQL
+- **Web** - TypeScript, React, Next.js, Tailwind CSS
+- **Mobile** - Kotlin, Jetpack Compose
+- **IoT and infrastructure** - LoRaWAN, Wireless M-Bus, ChirpStack, Docker
 
 ## Outside of coding
 
